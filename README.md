@@ -1,2 +1,2 @@
 # speech-recognition-app
-This repo is a sample speech recognition and synthesis application built with Javascript
+This application transcribes real-time audio of speech recording into text. It can also convert text to speech.
